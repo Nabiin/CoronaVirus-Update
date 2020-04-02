@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#one{
+    height: 10vh;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-color: red;
+}
+.maindiv{
+    height: 90vh; 
+    /* display: flex;
+    justify-content: space-between;
+*/
+}
+.el{
+height: 105px;
+font-size: 50px;
+font-weight: bold;
+border: solid;
+text-align: center;
+}
